@@ -1,4 +1,4 @@
-FROM ubuntu:focal-20230624
+FROM ubuntu:20.04
 
 ARG VERSION=16.2.1
 
